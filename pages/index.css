@@ -6,7 +6,6 @@
 
 /* content */
 @import "../blocks/content/content.css";
-@import "../blocks/content/__section/content__section.css";
 
 /* header */
 @import "../blocks/header/header.css";
