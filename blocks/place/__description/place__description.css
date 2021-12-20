@@ -9,7 +9,7 @@
   }
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .place__description {
     gap: 25px;
     margin: 32px 16px 0;

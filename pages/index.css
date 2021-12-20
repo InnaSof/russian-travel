@@ -27,7 +27,7 @@
 @import "../blocks/intro/__text/intro__text.css";
 @import "../blocks/intro/__list/intro__list.css";
 @import "../blocks/intro/__paragraph/intro__paragraph.css";
-@import "../blocks/intro/__paragraph-span/intro__paragraph-span.css";
+@import "../blocks/intro/__span/intro__span.css";
 
 /* photo-grid */
 @import "../blocks/photo-grid/photo-grid.css";
